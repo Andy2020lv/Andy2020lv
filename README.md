@@ -1,4 +1,4 @@
-![MasterHead](https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif)
+[![MasterHead](https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif)]
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">A passionate full stack developer from the Dominican Republic</h3>
 
