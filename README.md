@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]
+![MasterHead](https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif)
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">A passionate full stack developer from the Dominican Republic</h3>
 
