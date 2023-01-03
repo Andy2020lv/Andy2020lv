@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></img>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS** and **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://andyhernandez.netlify.app/](https://andyhernandez.netlify.app/)
 
